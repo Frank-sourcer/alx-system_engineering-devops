@@ -1,0 +1,2 @@
+#!/bin/bash
+var2=echo $var | tr -d '[:cntrl:]'
